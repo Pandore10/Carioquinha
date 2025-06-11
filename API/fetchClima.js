@@ -6,7 +6,7 @@ export const fetchClima = async () => {
     const coordenadas = await localizacaoAtual();
 
     if (!coordenadas) {
-      console.error('FetchClima: Erro de permissão.');
+      console.warn('FetchClima: Erro de permissão.');
       return null;
     }
 

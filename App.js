@@ -22,28 +22,28 @@ export default function App() {
     <NavigationContainer>
       <Header />
       <Tab.Navigator
-      screenOptions={({ route }) => ({
-        headerShown: false, tabBarIcon: ({ focused, color, size }) => {
-          let iconName;
+        screenOptions={({ route }) => ({
+          headerShown: false, tabBarIcon: ({ focused, color, size }) => {
+            let iconName;
 
-          if (route.name === "News") {
-            iconName = focused ? 'newspaper' : 'newspaper-outline';
-          } else if (route.name === "Onibus") {
-            iconName = focused ? 'bus' : 'bus-outline';
-          } else if (route.name === "OTT") {
-            iconName = focused ? 'alert-circle' : 'alert-circle-outline';
-          }
+            if (route.name === "News") {
+              iconName = focused ? 'newspaper' : 'newspaper-outline';
+            } else if (route.name === "Onibus") {
+              iconName = focused ? 'bus' : 'bus-outline';
+            } else if (route.name === "OTT") {
+              iconName = focused ? 'alert-circle' : 'alert-circle-outline';
+            }
 
-          return <Ionicons name={iconName} color={color} size={size} />
-        },
-        tabBarActiveTintColor: '#020301',
-        tabBarInactiveTintColor: 'gray',
-      })}
-    >
-      <Tab.Screen name='News' component={NewsScreen} />
-      <Tab.Screen name='Onibus' component={BusScreen} />
-      <Tab.Screen name='OTT' component={OTTScreen} />
-    </Tab.Navigator>
+            return <Ionicons name={iconName} color={color} size={size} />
+          },
+          tabBarActiveTintColor: '#020301',
+          tabBarInactiveTintColor: 'gray',
+        })}
+      >
+        <Tab.Screen name='News' component={NewsScreen} />
+        <Tab.Screen name='Onibus' component={BusScreen} />
+        <Tab.Screen name='OTT' component={OTTScreen} />
+      </Tab.Navigator>
     </NavigationContainer>
   );
 }

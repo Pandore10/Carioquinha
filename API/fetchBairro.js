@@ -5,7 +5,7 @@ export const fetchBairro = async () => {
     const coordenadas = await localizacaoAtual();
 
     if (!coordenadas) {
-      console.error('FetchBairro: Erro de permissão.');
+      console.warn('FetchBairro: Erro de permissão.');
       return null;
     }
 
