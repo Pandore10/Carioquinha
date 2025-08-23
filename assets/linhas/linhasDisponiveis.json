@@ -1,0 +1,3582 @@
+[
+  {
+    "linha": "10",
+    "destinos": [
+      "Terminal Alvorada",
+      "Santa Cruz"
+    ]
+  },
+  {
+    "linha": "11",
+    "destinos": [
+      "Terminal Alvorada",
+      "Santa Cruz"
+    ]
+  },
+  {
+    "linha": "12",
+    "destinos": [
+      "Terminal Alvorada",
+      "Pingo D'Água"
+    ]
+  },
+  {
+    "linha": "13",
+    "destinos": [
+      "Terminal Alvorada",
+      "Mato Alto"
+    ]
+  },
+  {
+    "linha": "14",
+    "destinos": [
+      "Terminal Recreio",
+      "Santa Eugênia"
+    ]
+  },
+  {
+    "linha": "15",
+    "destinos": [
+      "Terminal Alvorada",
+      "Terminal Curral Falso"
+    ]
+  },
+  {
+    "linha": "16",
+    "destinos": [
+      "Terminal Alvorada",
+      "Magarça"
+    ]
+  },
+  {
+    "linha": "17",
+    "destinos": [
+      "Santa Cruz",
+      "Campo Grande"
+    ]
+  },
+  {
+    "linha": "18",
+    "destinos": [
+      "Jardim Oceânico",
+      "Pontal"
+    ]
+  },
+  {
+    "linha": "19",
+    "destinos": [
+      "Salvador Allende",
+      "Pingo D'Água"
+    ]
+  },
+  {
+    "linha": "20",
+    "destinos": [
+      "Salvador Allende",
+      "Santa Cruz"
+    ]
+  },
+  {
+    "linha": "22",
+    "destinos": [
+      "Jardim Oceânico",
+      "Terminal Alvorada"
+    ]
+  },
+  {
+    "linha": "25",
+    "destinos": [
+      "Terminal Alvorada",
+      "Mato Alto"
+    ]
+  },
+  {
+    "linha": "28",
+    "destinos": [
+      "Curral Falso",
+      "Pingo D'Água"
+    ]
+  },
+  {
+    "linha": "31",
+    "destinos": [
+      "Terminal Alvorada",
+      "Vicente de Carvalho"
+    ]
+  },
+  {
+    "linha": "35",
+    "destinos": [
+      "Terminal Alvorada",
+      "Terminal Paulo da Portela"
+    ]
+  },
+  {
+    "linha": "38",
+    "destinos": [
+      "Terminal Alvorada",
+      "Terminal Aroldo Melodia"
+    ]
+  },
+  {
+    "linha": "40",
+    "destinos": [
+      "Terminal Alvorada",
+      "Terminal Paulo da Portela"
+    ]
+  },
+  {
+    "linha": "41",
+    "destinos": [
+      "Terminal Recreio",
+      "Terminal Paulo da Portela"
+    ]
+  },
+  {
+    "linha": "42",
+    "destinos": [
+      "Manacéia-Madureira",
+      "Galeão"
+    ]
+  },
+  {
+    "linha": "43",
+    "destinos": [
+      "Santa Efigênia",
+      "Terminal Aroldo Melodia"
+    ]
+  },
+  {
+    "linha": "46",
+    "destinos": [
+      "Terminal Alvorada",
+      "Penha"
+    ]
+  },
+  {
+    "linha": "50",
+    "destinos": [
+      "Jardim Oceânico",
+      "Terminal Centro Olímpico"
+    ]
+  },
+  {
+    "linha": "51",
+    "destinos": [
+      "Terminal Recreio",
+      "Terminal Deodoro"
+    ]
+  },
+  {
+    "linha": "52",
+    "destinos": [
+      "Terminal Alvorada",
+      "Terminal Deodoro"
+    ]
+  },
+  {
+    "linha": "53",
+    "destinos": [
+      "Terminal Alvorada",
+      "Terminal Sulacap"
+    ]
+  },
+  {
+    "linha": "60",
+    "destinos": [
+      "Terminal Gentileza",
+      "Terminal Deodoro"
+    ]
+  },
+  {
+    "linha": "61",
+    "destinos": [
+      "Terminal Gentileza",
+      "Terminal Deodoro"
+    ]
+  },
+  {
+    "linha": "67",
+    "destinos": [
+      "Terminal Deodoro",
+      "Campo Grande"
+    ]
+  },
+  {
+    "linha": "68",
+    "destinos": [
+      "Terminal Deodoro",
+      "Bangu"
+    ]
+  },
+  {
+    "linha": "71",
+    "destinos": [
+      "Terminal Gentileza",
+      "Vigário Geral - Praça Dois"
+    ]
+  },
+  {
+    "linha": "80",
+    "destinos": [
+      "Terminal Gentileza",
+      "Penha"
+    ]
+  },
+  {
+    "linha": "90",
+    "destinos": [
+      "Terminal Gentileza",
+      "Terminal Aroldo Melodia"
+    ]
+  },
+  {
+    "linha": "100",
+    "destinos": [
+      "Central [via Praia do Flamengo]",
+      "Metrô General Osório"
+    ]
+  },
+  {
+    "linha": "104",
+    "destinos": [
+      "Terminal Gentileza",
+      "São Conrado"
+    ]
+  },
+  {
+    "linha": "105",
+    "destinos": [
+      "Central",
+      "Alto Gávea"
+    ]
+  },
+  {
+    "linha": "107",
+    "destinos": [
+      "Urca",
+      "Central"
+    ]
+  },
+  {
+    "linha": "108",
+    "destinos": [
+      "Terminal Gentileza",
+      "Jardim de Alah"
+    ]
+  },
+  {
+    "linha": "109",
+    "destinos": [
+      "Santo Cristo",
+      "São Conrado [reversível]"
+    ]
+  },
+  {
+    "linha": "110",
+    "destinos": [
+      "Leblon",
+      "Terminal Gentileza"
+    ]
+  },
+  {
+    "linha": "112",
+    "destinos": [
+      "Alto Gávea",
+      "Terminal Gentileza"
+    ]
+  },
+  {
+    "linha": "117",
+    "destinos": [
+      "Cosme Velho",
+      "Central"
+    ]
+  },
+  {
+    "linha": "133",
+    "destinos": [
+      "Terminal Gentileza",
+      "Largo do Machado"
+    ]
+  },
+  {
+    "linha": "157",
+    "destinos": [
+      "Castelo",
+      "Gávea-PUC"
+    ]
+  },
+  {
+    "linha": "161",
+    "destinos": [
+      "Circular"
+    ]
+  },
+  {
+    "linha": "163",
+    "destinos": [
+      "Copacabana [reversível]",
+      "Terminal Gentileza"
+    ]
+  },
+  {
+    "linha": "165",
+    "destinos": [
+      "Cosme Velho",
+      "Terminal Gentileza"
+    ]
+  },
+  {
+    "linha": "167",
+    "destinos": [
+      "Urca",
+      "Terminal Gentileza"
+    ]
+  },
+  {
+    "linha": "181",
+    "destinos": [
+      "São Conrado"
+    ]
+  },
+  {
+    "linha": "201",
+    "destinos": [
+      "Castelo",
+      "Santa Alexandrina"
+    ]
+  },
+  {
+    "linha": "202",
+    "destinos": [
+      "Castelo",
+      "Rio Comprido"
+    ]
+  },
+  {
+    "linha": "209",
+    "destinos": [
+      "Caju",
+      "Candelária"
+    ]
+  },
+  {
+    "linha": "210",
+    "destinos": [
+      "Candelária",
+      "Caju"
+    ]
+  },
+  {
+    "linha": "217",
+    "destinos": [
+      "Carioca",
+      "Andaraí"
+    ]
+  },
+  {
+    "linha": "220",
+    "destinos": [
+      "Candelária",
+      "Usina"
+    ]
+  },
+  {
+    "linha": "222",
+    "destinos": [
+      "Gamboa",
+      "Vila Isabel"
+    ]
+  },
+  {
+    "linha": "229",
+    "destinos": [
+      "Castelo",
+      "Usina"
+    ]
+  },
+  {
+    "linha": "232",
+    "destinos": [
+      "Castelo",
+      "Lins de Vasconcelos"
+    ]
+  },
+  {
+    "linha": "238",
+    "destinos": [
+      "Castelo",
+      "Água Santa"
+    ]
+  },
+  {
+    "linha": "239",
+    "destinos": [
+      "Castelo",
+      "Água Santa"
+    ]
+  },
+  {
+    "linha": "247",
+    "destinos": [
+      "Passeio",
+      "Camarista Méier"
+    ]
+  },
+  {
+    "linha": "249",
+    "destinos": [
+      "Carioca",
+      "Água Santa"
+    ]
+  },
+  {
+    "linha": "254",
+    "destinos": [
+      "Candelária",
+      "Madureira"
+    ]
+  },
+  {
+    "linha": "265",
+    "destinos": [
+      "Castelo",
+      "Marechal Hermes"
+    ]
+  },
+  {
+    "linha": "275",
+    "destinos": [
+      "Candelária",
+      "Meier"
+    ]
+  },
+  {
+    "linha": "277",
+    "destinos": [
+      "Candelária",
+      "Rocha Miranda"
+    ]
+  },
+  {
+    "linha": "292",
+    "destinos": [
+      "Castelo",
+      "Engenho da Rainha"
+    ]
+  },
+  {
+    "linha": "296",
+    "destinos": [
+      "Castelo",
+      "Irajá"
+    ]
+  },
+  {
+    "linha": "298",
+    "destinos": [
+      "Castelo",
+      "Acari"
+    ]
+  },
+  {
+    "linha": "300",
+    "destinos": [
+      "Candelária",
+      "Terminal Sulacap"
+    ]
+  },
+  {
+    "linha": "301",
+    "destinos": [
+      "Terminal Alvorada",
+      "Terminal Gentileza"
+    ]
+  },
+  {
+    "linha": "302",
+    "destinos": [
+      "Terminal Alvorada",
+      "Terminal Gentileza"
+    ]
+  },
+  {
+    "linha": "306",
+    "destinos": [
+      "Castelo",
+      "Praça Seca"
+    ]
+  },
+  {
+    "linha": "309",
+    "destinos": [
+      "Central",
+      "Terminal Alvorada"
+    ]
+  },
+  {
+    "linha": "311",
+    "destinos": [
+      "Candelária",
+      "Engenheiro Leal"
+    ]
+  },
+  {
+    "linha": "312",
+    "destinos": [
+      "Candelária",
+      "Olaria"
+    ]
+  },
+  {
+    "linha": "313",
+    "destinos": [
+      "Praça Tiradentes",
+      "Penha (Grotão)"
+    ]
+  },
+  {
+    "linha": "315",
+    "destinos": [
+      "Recreio dos Bandeirantes",
+      "Central"
+    ]
+  },
+  {
+    "linha": "321",
+    "destinos": [
+      "Castelo",
+      "Bancários"
+    ]
+  },
+  {
+    "linha": "323",
+    "destinos": [
+      "Castelo",
+      "Bananal"
+    ]
+  },
+  {
+    "linha": "324",
+    "destinos": [
+      "Candelária",
+      "Ribeira"
+    ]
+  },
+  {
+    "linha": "325",
+    "destinos": [
+      "Castelo",
+      "Ribeira"
+    ]
+  },
+  {
+    "linha": "326",
+    "destinos": [
+      "Candelária",
+      "Bancários"
+    ]
+  },
+  {
+    "linha": "327",
+    "destinos": [
+      "Castelo",
+      "Ribeira"
+    ]
+  },
+  {
+    "linha": "328",
+    "destinos": [
+      "Candelária",
+      "Bananal"
+    ]
+  },
+  {
+    "linha": "329",
+    "destinos": [
+      "Candelária",
+      "Bancários"
+    ]
+  },
+  {
+    "linha": "335",
+    "destinos": [
+      "Tiradentes",
+      "Cordovil"
+    ]
+  },
+  {
+    "linha": "338",
+    "destinos": [
+      "Candelária",
+      "Taquara"
+    ]
+  },
+  {
+    "linha": "341",
+    "destinos": [
+      "Candelária",
+      "Taquara"
+    ]
+  },
+  {
+    "linha": "342",
+    "destinos": [
+      "Castelo",
+      "Jardim América"
+    ]
+  },
+  {
+    "linha": "343",
+    "destinos": [
+      "Candelária",
+      "Jardim Oceânico"
+    ]
+  },
+  {
+    "linha": "348",
+    "destinos": [
+      "Candelária",
+      "Riocentro"
+    ]
+  },
+  {
+    "linha": "349",
+    "destinos": [
+      "Castelo"
+    ]
+  },
+  {
+    "linha": "350",
+    "destinos": [
+      "Castelo",
+      "Irajá"
+    ]
+  },
+  {
+    "linha": "352",
+    "destinos": [
+      "Candelária",
+      "Riocentro"
+    ]
+  },
+  {
+    "linha": "353",
+    "destinos": [
+      "Terminal Gentileza",
+      "Gardênia Azul"
+    ]
+  },
+  {
+    "linha": "355",
+    "destinos": [
+      "Praça Tiradentes",
+      "Madureira"
+    ]
+  },
+  {
+    "linha": "361",
+    "destinos": [
+      "Castelo",
+      "Recreio dos Bandeirantes"
+    ]
+  },
+  {
+    "linha": "362",
+    "destinos": [
+      "Castelo",
+      "Honório Gurgel"
+    ]
+  },
+  {
+    "linha": "363",
+    "destinos": [
+      "Candelária",
+      "Vila Valqueire"
+    ]
+  },
+  {
+    "linha": "368",
+    "destinos": [
+      "Candelária",
+      "Riocentro"
+    ]
+  },
+  {
+    "linha": "369",
+    "destinos": [
+      "Candelária",
+      "Bangu"
+    ]
+  },
+  {
+    "linha": "371",
+    "destinos": [
+      "Praça da República",
+      "Praça Seca"
+    ]
+  },
+  {
+    "linha": "378",
+    "destinos": [
+      "Castelo",
+      "Marechal Hermes"
+    ]
+  },
+  {
+    "linha": "379",
+    "destinos": [
+      "Tiradentes",
+      "Catiri"
+    ]
+  },
+  {
+    "linha": "380",
+    "destinos": [
+      "Candelária",
+      "Curicica"
+    ]
+  },
+  {
+    "linha": "383",
+    "destinos": [
+      "Praça da República",
+      "Realengo"
+    ]
+  },
+  {
+    "linha": "384",
+    "destinos": [
+      "Passeio",
+      "Pavuna"
+    ]
+  },
+  {
+    "linha": "385",
+    "destinos": [
+      "Passeio"
+    ]
+  },
+  {
+    "linha": "386",
+    "destinos": [
+      "Candelária",
+      "Anchieta"
+    ]
+  },
+  {
+    "linha": "388",
+    "destinos": [
+      "Candelária",
+      "Cesarão"
+    ]
+  },
+  {
+    "linha": "389",
+    "destinos": [
+      "Candelária",
+      "Vila Aliança"
+    ]
+  },
+  {
+    "linha": "390",
+    "destinos": [
+      "Candelária",
+      "Curicica"
+    ]
+  },
+  {
+    "linha": "393",
+    "destinos": [
+      "Candelária",
+      "Bangu"
+    ]
+  },
+  {
+    "linha": "394",
+    "destinos": [
+      "Tiradentes",
+      "Vila Kennedy"
+    ]
+  },
+  {
+    "linha": "395",
+    "destinos": [
+      "Tiradentes"
+    ]
+  },
+  {
+    "linha": "397",
+    "destinos": [
+      "Candelária",
+      "Terminal Campo Grande"
+    ]
+  },
+  {
+    "linha": "399",
+    "destinos": [
+      "Passeio",
+      "Pavuna"
+    ]
+  },
+  {
+    "linha": "409",
+    "destinos": [
+      "Horto",
+      "Saens Peña"
+    ]
+  },
+  {
+    "linha": "410",
+    "destinos": [
+      "Gávea",
+      "Saens Peña"
+    ]
+  },
+  {
+    "linha": "415",
+    "destinos": [
+      "Leblon [via Praia do Flamengo]",
+      "Usina"
+    ]
+  },
+  {
+    "linha": "416",
+    "destinos": [
+      "Horto",
+      "Saens Peña"
+    ]
+  },
+  {
+    "linha": "422",
+    "destinos": [
+      "Cosme Velho",
+      "Grajaú"
+    ]
+  },
+  {
+    "linha": "426",
+    "destinos": [
+      "Jardim de Alah",
+      "Usina"
+    ]
+  },
+  {
+    "linha": "432",
+    "destinos": [
+      "Gávea",
+      "Vila Isabel"
+    ]
+  },
+  {
+    "linha": "433",
+    "destinos": [
+      "Siqueira Campos",
+      "Vila Isabel"
+    ]
+  },
+  {
+    "linha": "435",
+    "destinos": [
+      "Gávea",
+      "Grajaú [reversível]"
+    ]
+  },
+  {
+    "linha": "439",
+    "destinos": [
+      "Leblon",
+      "Vila Isabel"
+    ]
+  },
+  {
+    "linha": "440",
+    "destinos": [
+      "Copacabana"
+    ]
+  },
+  {
+    "linha": "443",
+    "destinos": [
+      "Leblon"
+    ]
+  },
+  {
+    "linha": "444",
+    "destinos": [
+      "Jardim de Alah"
+    ]
+  },
+  {
+    "linha": "448",
+    "destinos": [
+      "São Conrado",
+      "Furnas"
+    ]
+  },
+  {
+    "linha": "455",
+    "destinos": [
+      "Copacabana",
+      "Méier [via Praia do Flamengo]"
+    ]
+  },
+  {
+    "linha": "456",
+    "destinos": [
+      "Copacabana",
+      "Norte Shopping"
+    ]
+  },
+  {
+    "linha": "457",
+    "destinos": [
+      "Copacabana",
+      "Abolição"
+    ]
+  },
+  {
+    "linha": "460",
+    "destinos": [
+      "Circular"
+    ]
+  },
+  {
+    "linha": "461",
+    "destinos": [
+      "Circular"
+    ]
+  },
+  {
+    "linha": "463",
+    "destinos": [
+      "Copacabana [reversível]",
+      "São Cristóvão"
+    ]
+  },
+  {
+    "linha": "472",
+    "destinos": [
+      "Leme",
+      "Triagem"
+    ]
+  },
+  {
+    "linha": "473",
+    "destinos": [
+      "Lido",
+      "São Januário"
+    ]
+  },
+  {
+    "linha": "474",
+    "destinos": [
+      "Copacabana",
+      "Jacaré"
+    ]
+  },
+  {
+    "linha": "476",
+    "destinos": [
+      "Leblon",
+      "Méier"
+    ]
+  },
+  {
+    "linha": "483",
+    "destinos": [
+      "General Osório [via P. Vargas/P. Flamengo]",
+      "Penha [via P. do Flamengo]"
+    ]
+  },
+  {
+    "linha": "484",
+    "destinos": [
+      "General Osório"
+    ]
+  },
+  {
+    "linha": "485",
+    "destinos": [
+      "General Osório",
+      "Fundão"
+    ]
+  },
+  {
+    "linha": "486",
+    "destinos": [
+      "Fundão"
+    ]
+  },
+  {
+    "linha": "492",
+    "destinos": [
+      "Prado Júnior",
+      "Bancários [via P. do Flamengo]"
+    ]
+  },
+  {
+    "linha": "497",
+    "destinos": [
+      "Largo do Machado",
+      "Penha"
+    ]
+  },
+  {
+    "linha": "498",
+    "destinos": [
+      "Largo do Machado",
+      "Circular da Penha"
+    ]
+  },
+  {
+    "linha": "507",
+    "destinos": [
+      "Largo do Machado",
+      "Silvestre"
+    ]
+  },
+  {
+    "linha": "513",
+    "destinos": [
+      "Botafogo",
+      "Urca"
+    ]
+  },
+  {
+    "linha": "518",
+    "destinos": [
+      "Circular"
+    ]
+  },
+  {
+    "linha": "519",
+    "destinos": [
+      "Circular"
+    ]
+  },
+  {
+    "linha": "538",
+    "destinos": [
+      "Leme",
+      "Rocinha"
+    ]
+  },
+  {
+    "linha": "539",
+    "destinos": [
+      "Leme",
+      "Rocinha"
+    ]
+  },
+  {
+    "linha": "548",
+    "destinos": [
+      "Terminal Alvorada",
+      "Metrô Botafogo"
+    ]
+  },
+  {
+    "linha": "550",
+    "destinos": [
+      "Gávea",
+      "Cidade de Deus"
+    ]
+  },
+  {
+    "linha": "552",
+    "destinos": [
+      "Rio Sul",
+      "Terminal Alvorada [reversível]"
+    ]
+  },
+  {
+    "linha": "553",
+    "destinos": [
+      "Rio Sul [via Visconde de Pirajá]",
+      "Recreio dos Bandeirantes"
+    ]
+  },
+  {
+    "linha": "554",
+    "destinos": [
+      "Rio Sul",
+      "Piabas [reversível]"
+    ]
+  },
+  {
+    "linha": "555",
+    "destinos": [
+      "Gávea",
+      "Rio das Pedras"
+    ]
+  },
+  {
+    "linha": "557",
+    "destinos": [
+      "Copacabana",
+      "Rio das Pedras [reversível]"
+    ]
+  },
+  {
+    "linha": "558",
+    "destinos": [
+      "Copacabana [reversível]",
+      "Cidade de Deus"
+    ]
+  },
+  {
+    "linha": "565",
+    "destinos": [
+      "Gávea",
+      "Terminal Tanque"
+    ]
+  },
+  {
+    "linha": "583",
+    "destinos": [
+      "Circular"
+    ]
+  },
+  {
+    "linha": "584",
+    "destinos": [
+      "Circular"
+    ]
+  },
+  {
+    "linha": "585",
+    "destinos": [
+      "Metrô Jardim de Alah",
+      "Largo do Machado"
+    ]
+  },
+  {
+    "linha": "600",
+    "destinos": [
+      "Saens Peña",
+      "Taquara"
+    ]
+  },
+  {
+    "linha": "601",
+    "destinos": [
+      "Saens Peña",
+      "Santa Maria"
+    ]
+  },
+  {
+    "linha": "603",
+    "destinos": [
+      "Saens Peña",
+      "Usina"
+    ]
+  },
+  {
+    "linha": "605",
+    "destinos": [
+      "Praça Saens Peña",
+      "Vila Isabel"
+    ]
+  },
+  {
+    "linha": "606",
+    "destinos": [
+      "Terminal Gentileza",
+      "Engenho de Dentro"
+    ]
+  },
+  {
+    "linha": "607",
+    "destinos": [
+      "Rio Comprido",
+      "Cascadura"
+    ]
+  },
+  {
+    "linha": "608",
+    "destinos": [
+      "Metrô Saens Peña",
+      "Grajaú"
+    ]
+  },
+  {
+    "linha": "610",
+    "destinos": [
+      "Terminal Tanque",
+      "Metrô Del Castilho"
+    ]
+  },
+  {
+    "linha": "611",
+    "destinos": [
+      "Metrô Del Castilho",
+      "Riocentro"
+    ]
+  },
+  {
+    "linha": "613",
+    "destinos": [
+      "Metrô Del Castilho",
+      "Vargem Grande"
+    ]
+  },
+  {
+    "linha": "614",
+    "destinos": [
+      "Terminal Alvorada",
+      "Metrô Del Castilho"
+    ]
+  },
+  {
+    "linha": "616",
+    "destinos": [
+      "Terminal Fundão",
+      "Metrô Del Castilho"
+    ]
+  },
+  {
+    "linha": "621",
+    "destinos": [
+      "Saens Peña",
+      "Penha"
+    ]
+  },
+  {
+    "linha": "622",
+    "destinos": [
+      "Saens Peña",
+      "Penha"
+    ]
+  },
+  {
+    "linha": "623",
+    "destinos": [
+      "Saens Peña",
+      "Penha"
+    ]
+  },
+  {
+    "linha": "624",
+    "destinos": [
+      "Praça da Bandeira",
+      "Mariópolis"
+    ]
+  },
+  {
+    "linha": "625",
+    "destinos": [
+      "Saens Peña",
+      "Olaria"
+    ]
+  },
+  {
+    "linha": "626",
+    "destinos": [
+      "Muda",
+      "Saens Peña"
+    ]
+  },
+  {
+    "linha": "627",
+    "destinos": [
+      "Saens Peña",
+      "Inhaúma"
+    ]
+  },
+  {
+    "linha": "628",
+    "destinos": [
+      "Nova América",
+      "Penha"
+    ]
+  },
+  {
+    "linha": "629",
+    "destinos": [
+      "Saens Pena",
+      "Irajá"
+    ]
+  },
+  {
+    "linha": "630",
+    "destinos": [
+      "Saens Peña",
+      "Penha (IAPI)"
+    ]
+  },
+  {
+    "linha": "634",
+    "destinos": [
+      "Saens Peña",
+      "Bananal"
+    ]
+  },
+  {
+    "linha": "635",
+    "destinos": [
+      "Saens Peña",
+      "Bananal"
+    ]
+  },
+  {
+    "linha": "636",
+    "destinos": [
+      "Saens Peña",
+      "Merck"
+    ]
+  },
+  {
+    "linha": "638",
+    "destinos": [
+      "Saens Peña",
+      "Marechal Hermes"
+    ]
+  },
+  {
+    "linha": "639",
+    "destinos": [
+      "Saens Peña",
+      "Jardim América"
+    ]
+  },
+  {
+    "linha": "645",
+    "destinos": [
+      "Saens Peña",
+      "Terminal Alvorada"
+    ]
+  },
+  {
+    "linha": "650",
+    "destinos": [
+      "Engenho Novo",
+      "Marechal Hermes"
+    ]
+  },
+  {
+    "linha": "651",
+    "destinos": [
+      "Circular"
+    ]
+  },
+  {
+    "linha": "652",
+    "destinos": [
+      "Circular"
+    ]
+  },
+  {
+    "linha": "653",
+    "destinos": [
+      "Méier",
+      "Terminal Deodoro"
+    ]
+  },
+  {
+    "linha": "663",
+    "destinos": [
+      "Fundão",
+      "Méier"
+    ]
+  },
+  {
+    "linha": "665",
+    "destinos": [
+      "Saens Peña",
+      "Pavuna"
+    ]
+  },
+  {
+    "linha": "669",
+    "destinos": [
+      "Méier",
+      "Pavuna"
+    ]
+  },
+  {
+    "linha": "678",
+    "destinos": [
+      "Vila Valqueire",
+      "Méier"
+    ]
+  },
+  {
+    "linha": "679",
+    "destinos": [
+      "Méier",
+      "Grotão"
+    ]
+  },
+  {
+    "linha": "680",
+    "destinos": [
+      "Méier",
+      "Penha (IAPI)"
+    ]
+  },
+  {
+    "linha": "685",
+    "destinos": [
+      "Méier",
+      "Irajá"
+    ]
+  },
+  {
+    "linha": "687",
+    "destinos": [
+      "Méier",
+      "Pavuna"
+    ]
+  },
+  {
+    "linha": "688",
+    "destinos": [
+      "Pavuna",
+      "Méier"
+    ]
+  },
+  {
+    "linha": "691",
+    "destinos": [
+      "Cidade de Deus",
+      "Méier"
+    ]
+  },
+  {
+    "linha": "692",
+    "destinos": [
+      "Terminal Alvorada",
+      "Méier"
+    ]
+  },
+  {
+    "linha": "693",
+    "destinos": [
+      "Terminal Alvorada",
+      "Méier"
+    ]
+  },
+  {
+    "linha": "696",
+    "destinos": [
+      "Praia do Dendê",
+      "Méier"
+    ]
+  },
+  {
+    "linha": "702",
+    "destinos": [
+      "Madureira",
+      "Praça Seca"
+    ]
+  },
+  {
+    "linha": "709",
+    "destinos": [
+      "Amarelinho",
+      "Cascadura"
+    ]
+  },
+  {
+    "linha": "711",
+    "destinos": [
+      "Rio Comprido",
+      "Rocha Miranda"
+    ]
+  },
+  {
+    "linha": "712",
+    "destinos": [
+      "Irajá",
+      "Cascadura"
+    ]
+  },
+  {
+    "linha": "721",
+    "destinos": [
+      "Cascadura",
+      "Vila Cruzeiro"
+    ]
+  },
+  {
+    "linha": "731",
+    "destinos": [
+      "Marechal Hermes",
+      "Campo Grande"
+    ]
+  },
+  {
+    "linha": "737",
+    "destinos": [
+      "Cascadura",
+      "Santíssimo"
+    ]
+  },
+  {
+    "linha": "741",
+    "destinos": [
+      "Circular"
+    ]
+  },
+  {
+    "linha": "743",
+    "destinos": [
+      "Circular"
+    ]
+  },
+  {
+    "linha": "745",
+    "destinos": [
+      "Cascadura",
+      "Bangu"
+    ]
+  },
+  {
+    "linha": "746",
+    "destinos": [
+      "Cascadura",
+      "Jabour"
+    ]
+  },
+  {
+    "linha": "752",
+    "destinos": [
+      "Metrô Coelho Neto",
+      "Conjunto dos Palmares"
+    ]
+  },
+  {
+    "linha": "753",
+    "destinos": [
+      "Metrô Coelho Neto",
+      "Santa Cruz"
+    ]
+  },
+  {
+    "linha": "754",
+    "destinos": [
+      "Terminal Deodoro",
+      "Santa Cruz"
+    ]
+  },
+  {
+    "linha": "756",
+    "destinos": [
+      "Metrô Coelho Neto",
+      "Santa Cruz"
+    ]
+  },
+  {
+    "linha": "757",
+    "destinos": [
+      "Metrô Coelho Neto",
+      "Sepetiba"
+    ]
+  },
+  {
+    "linha": "759",
+    "destinos": [
+      "Metrô Coelho Neto",
+      "Cesarão"
+    ]
+  },
+  {
+    "linha": "764",
+    "destinos": [
+      "Terminal Deodoro",
+      "Catiri"
+    ]
+  },
+  {
+    "linha": "765",
+    "destinos": [
+      "Terminal Deodoro",
+      "Largo do Mendanha"
+    ]
+  },
+  {
+    "linha": "766",
+    "destinos": [
+      "Freguesia",
+      "Madureira"
+    ]
+  },
+  {
+    "linha": "770",
+    "destinos": [
+      "Metrô Coelho Neto",
+      "Campo Grande"
+    ]
+  },
+  {
+    "linha": "771",
+    "destinos": [
+      "Coelho Neto",
+      "Campo Grande"
+    ]
+  },
+  {
+    "linha": "774",
+    "destinos": [
+      "Jardim América",
+      "Madureira"
+    ]
+  },
+  {
+    "linha": "775",
+    "destinos": [
+      "Madureira",
+      "Jardim América"
+    ]
+  },
+  {
+    "linha": "778",
+    "destinos": [
+      "Cascadura",
+      "Pavuna"
+    ]
+  },
+  {
+    "linha": "779",
+    "destinos": [
+      "Terminal Madureira",
+      "Metrô Pavuna"
+    ]
+  },
+  {
+    "linha": "783",
+    "destinos": [
+      "Praça Seca",
+      "Terminal Deodoro"
+    ]
+  },
+  {
+    "linha": "785",
+    "destinos": [
+      "Marechal Hermes",
+      "Cascadura"
+    ]
+  },
+  {
+    "linha": "786",
+    "destinos": [
+      "Cascadura",
+      "Terminal Campo Grande"
+    ]
+  },
+  {
+    "linha": "788",
+    "destinos": [
+      "Terminal Deodoro",
+      "Terminal Campo Grande"
+    ]
+  },
+  {
+    "linha": "790",
+    "destinos": [
+      "Cascadura",
+      "Campo Grande"
+    ]
+  },
+  {
+    "linha": "791",
+    "destinos": [
+      "Terminal Deodoro",
+      "Padre Miguel"
+    ]
+  },
+  {
+    "linha": "793",
+    "destinos": [
+      "Terminal Sulacap",
+      "Pavuna"
+    ]
+  },
+  {
+    "linha": "794",
+    "destinos": [
+      "Cascadura",
+      "Bangu"
+    ]
+  },
+  {
+    "linha": "796",
+    "destinos": [
+      "Terminal Deodoro",
+      "Campo Grande"
+    ]
+  },
+  {
+    "linha": "798",
+    "destinos": [
+      "Terminal Deodoro",
+      "Campo Grande"
+    ]
+  },
+  {
+    "linha": "801",
+    "destinos": [
+      "Taquara",
+      "Bangu"
+    ]
+  },
+  {
+    "linha": "802",
+    "destinos": [
+      "Bangu",
+      "Terminal Campo Grande"
+    ]
+  },
+  {
+    "linha": "803",
+    "destinos": [
+      "Taquara",
+      "Jabour"
+    ]
+  },
+  {
+    "linha": "805",
+    "destinos": [
+      "Jardim Oceânico",
+      "Terminal Alvorada"
+    ]
+  },
+  {
+    "linha": "807",
+    "destinos": [
+      "Terminal Curral Falso",
+      "Jesuítas"
+    ]
+  },
+  {
+    "linha": "808",
+    "destinos": [
+      "Campo Grande",
+      "Salim"
+    ]
+  },
+  {
+    "linha": "809",
+    "destinos": [
+      "Santa Cruz",
+      "Sagrado Coração"
+    ]
+  },
+  {
+    "linha": "810",
+    "destinos": [
+      "Pontal",
+      "Terminal Taquara"
+    ]
+  },
+  {
+    "linha": "812",
+    "destinos": [
+      "Bangu",
+      "Largo do Mendanha"
+    ]
+  },
+  {
+    "linha": "817",
+    "destinos": [
+      "Vargem Grande",
+      "Piabas"
+    ]
+  },
+  {
+    "linha": "819",
+    "destinos": [
+      "Bangu",
+      "Jardim Bangu"
+    ]
+  },
+  {
+    "linha": "821",
+    "destinos": [
+      "Circular"
+    ]
+  },
+  {
+    "linha": "822",
+    "destinos": [
+      "Circular"
+    ]
+  },
+  {
+    "linha": "825",
+    "destinos": [
+      "Jesuítas",
+      "Campo Grande"
+    ]
+  },
+  {
+    "linha": "826",
+    "destinos": [
+      "Campo Grande",
+      "Carobinha"
+    ]
+  },
+  {
+    "linha": "829",
+    "destinos": [
+      "Freguesia",
+      "Gardênia Azul"
+    ]
+  },
+  {
+    "linha": "830",
+    "destinos": [
+      "Campo Grande",
+      "Pedregoso"
+    ]
+  },
+  {
+    "linha": "831",
+    "destinos": [
+      "Terminal Taquara",
+      "Colônia"
+    ]
+  },
+  {
+    "linha": "833",
+    "destinos": [
+      "Campo Grande",
+      "Conjunto Manguariba"
+    ]
+  },
+  {
+    "linha": "834",
+    "destinos": [
+      "Cabuçu de Baixo",
+      "Terminal Campo Grande"
+    ]
+  },
+  {
+    "linha": "835",
+    "destinos": [
+      "Terminal Campo Grande",
+      "Largo do Correia"
+    ]
+  },
+  {
+    "linha": "836",
+    "destinos": [
+      "Terminal Campo Grande",
+      "Rio da Prata"
+    ]
+  },
+  {
+    "linha": "837",
+    "destinos": [
+      "Conjunto da Marinha",
+      "Terminal Campo Grande"
+    ]
+  },
+  {
+    "linha": "838",
+    "destinos": [
+      "Terminal Magarça",
+      "Terminal Campo Grande"
+    ]
+  },
+  {
+    "linha": "840",
+    "destinos": [
+      "Campo Grande",
+      "São Fernando"
+    ]
+  },
+  {
+    "linha": "841",
+    "destinos": [
+      "Inhoaíba",
+      "Campo Grande"
+    ]
+  },
+  {
+    "linha": "842",
+    "destinos": [
+      "Campo Grande",
+      "Paciência"
+    ]
+  },
+  {
+    "linha": "843",
+    "destinos": [
+      "Circular"
+    ]
+  },
+  {
+    "linha": "844",
+    "destinos": [
+      "Circular"
+    ]
+  },
+  {
+    "linha": "845",
+    "destinos": [
+      "Terminal Campo Grande",
+      "Cantagalo"
+    ]
+  },
+  {
+    "linha": "846",
+    "destinos": [
+      "Terminal Campo Grande",
+      "Rio da Prata"
+    ]
+  },
+  {
+    "linha": "847",
+    "destinos": [
+      "Terminal Campo Grande",
+      "Rio da Prata"
+    ]
+  },
+  {
+    "linha": "848",
+    "destinos": [
+      "Terminal Campo Grande",
+      "Monte Santo"
+    ]
+  },
+  {
+    "linha": "849",
+    "destinos": [
+      "Campo Grande",
+      "Base Aérea de Santa Cruz"
+    ]
+  },
+  {
+    "linha": "850",
+    "destinos": [
+      "Campo Grande",
+      "Mendanha"
+    ]
+  },
+  {
+    "linha": "851",
+    "destinos": [
+      "Escola Amazonas",
+      "Terminal Campo Grande"
+    ]
+  },
+  {
+    "linha": "852",
+    "destinos": [
+      "Circular"
+    ]
+  },
+  {
+    "linha": "853",
+    "destinos": [
+      "Terminal Deodoro",
+      "Terminal Mato Alto"
+    ]
+  },
+  {
+    "linha": "854",
+    "destinos": [
+      "Ilha de Guaratiba",
+      "Terminal Campo Grande"
+    ]
+  },
+  {
+    "linha": "855",
+    "destinos": [
+      "Terminal Deodoro",
+      "Terminal Magarça"
+    ]
+  },
+  {
+    "linha": "856",
+    "destinos": [
+      "Terminal Campo Grande",
+      "Capoeira Grande"
+    ]
+  },
+  {
+    "linha": "857",
+    "destinos": [
+      "Terminal Pingo D'Água",
+      "Terminal Campo Grande"
+    ]
+  },
+  {
+    "linha": "859",
+    "destinos": [
+      "Geremário Dantas",
+      "Covanca"
+    ]
+  },
+  {
+    "linha": "861",
+    "destinos": [
+      "Curicica",
+      "Rio das Pedras"
+    ]
+  },
+  {
+    "linha": "862",
+    "destinos": [
+      "Barra da Tijuca",
+      "Rio das Pedras"
+    ]
+  },
+  {
+    "linha": "863",
+    "destinos": [
+      "Terminal Alvorada",
+      "Rio das Pedras"
+    ]
+  },
+  {
+    "linha": "864",
+    "destinos": [
+      "Terminal Campo Grande",
+      "Bangu"
+    ]
+  },
+  {
+    "linha": "865",
+    "destinos": [
+      "Terminal Taquara",
+      "Pau da Fome"
+    ]
+  },
+  {
+    "linha": "866",
+    "destinos": [
+      "Circular"
+    ]
+  },
+  {
+    "linha": "867",
+    "destinos": [
+      "Terminal Campo Grande",
+      "Barra de Guaratiba"
+    ]
+  },
+  {
+    "linha": "868",
+    "destinos": [
+      "Campo Grande",
+      "Urucânia"
+    ]
+  },
+  {
+    "linha": "869",
+    "destinos": [
+      "Campo Grande",
+      "Santa Margarida"
+    ]
+  },
+  {
+    "linha": "870",
+    "destinos": [
+      "Santa Cruz",
+      "Sepetiba"
+    ]
+  },
+  {
+    "linha": "871",
+    "destinos": [
+      "Cesarão",
+      "Terminal Pingo D'Água"
+    ]
+  },
+  {
+    "linha": "872",
+    "destinos": [
+      "Terminal Mato Alto",
+      "Praia de Sepetiba"
+    ]
+  },
+  {
+    "linha": "878",
+    "destinos": [
+      "Barra da Tijuca",
+      "Terminal Tanque"
+    ]
+  },
+  {
+    "linha": "880",
+    "destinos": [
+      "Terminal Alvorada",
+      "Rio das Pedras"
+    ]
+  },
+  {
+    "linha": "881",
+    "destinos": [
+      "Terminal Alvorada",
+      "Terminal Taquara"
+    ]
+  },
+  {
+    "linha": "883",
+    "destinos": [
+      "Terminal Deodoro",
+      "Terminal Mato Alto"
+    ]
+  },
+  {
+    "linha": "884",
+    "destinos": [
+      "Terminal Campo Grande",
+      "Sepetiba"
+    ]
+  },
+  {
+    "linha": "885",
+    "destinos": [
+      "Santa Cruz",
+      "Terminal Mato Alto"
+    ]
+  },
+  {
+    "linha": "892",
+    "destinos": [
+      "Circular"
+    ]
+  },
+  {
+    "linha": "893",
+    "destinos": [
+      "Campo Grande",
+      "Jardim Palmares"
+    ]
+  },
+  {
+    "linha": "894",
+    "destinos": [
+      "Circular"
+    ]
+  },
+  {
+    "linha": "895",
+    "destinos": [
+      "Campo Grande",
+      "Serrinha"
+    ]
+  },
+  {
+    "linha": "897",
+    "destinos": [
+      "Terminal Pingo D'Água",
+      "Paciência"
+    ]
+  },
+  {
+    "linha": "898",
+    "destinos": [
+      "Campo Grande",
+      "Sepetiba"
+    ]
+  },
+  {
+    "linha": "899",
+    "destinos": [
+      "Terminal Recreio",
+      "Barra de Guaratiba"
+    ]
+  },
+  {
+    "linha": "900",
+    "destinos": [
+      "Downtown",
+      "Terminal Taquara"
+    ]
+  },
+  {
+    "linha": "901",
+    "destinos": [
+      "Bananal",
+      "Bonsucesso"
+    ]
+  },
+  {
+    "linha": "905",
+    "destinos": [
+      "Irajá",
+      "Bonsucesso"
+    ]
+  },
+  {
+    "linha": "906",
+    "destinos": [
+      "Caju",
+      "Jardim América"
+    ]
+  },
+  {
+    "linha": "908",
+    "destinos": [
+      "Bonsucesso",
+      "Terminal Deodoro"
+    ]
+  },
+  {
+    "linha": "910",
+    "destinos": [
+      "Irajá",
+      "Bananal"
+    ]
+  },
+  {
+    "linha": "913",
+    "destinos": [
+      "Terminal Fundão",
+      "Metrô Del Castilho"
+    ]
+  },
+  {
+    "linha": "915",
+    "destinos": [
+      "Aeroporto Internacional",
+      "Bonsucesso"
+    ]
+  },
+  {
+    "linha": "917",
+    "destinos": [
+      "Bonsucesso",
+      "Realengo"
+    ]
+  },
+  {
+    "linha": "918",
+    "destinos": [
+      "Bonsucesso",
+      "Jardim Violeta"
+    ]
+  },
+  {
+    "linha": "919",
+    "destinos": [
+      "Maré",
+      "Pavuna"
+    ]
+  },
+  {
+    "linha": "920",
+    "destinos": [
+      "Bonsucesso",
+      "Pavuna"
+    ]
+  },
+  {
+    "linha": "921",
+    "destinos": [
+      "Ribeira",
+      "Bancários"
+    ]
+  },
+  {
+    "linha": "922",
+    "destinos": [
+      "Terminal Fundão",
+      "Tubiacanga"
+    ]
+  },
+  {
+    "linha": "925",
+    "destinos": [
+      "Bancários",
+      "Aeroporto Internacional"
+    ]
+  },
+  {
+    "linha": "926",
+    "destinos": [
+      "Penha",
+      "Senador Camará"
+    ]
+  },
+  {
+    "linha": "928",
+    "destinos": [
+      "Bonsucesso",
+      "Marechal Hermes"
+    ]
+  },
+  {
+    "linha": "932",
+    "destinos": [
+      "Tanque",
+      "Gardênia Azul"
+    ]
+  },
+  {
+    "linha": "936",
+    "destinos": [
+      "Cidade Universitária",
+      "Campo Grande"
+    ]
+  },
+  {
+    "linha": "940",
+    "destinos": [
+      "Madureira",
+      "Ramos (Praia)"
+    ]
+  },
+  {
+    "linha": "945",
+    "destinos": [
+      "Cidade Universitária",
+      "Pavuna"
+    ]
+  },
+  {
+    "linha": "946",
+    "destinos": [
+      "Engenho da Rainha",
+      "Pavuna"
+    ]
+  },
+  {
+    "linha": "950",
+    "destinos": [
+      "Vista Alegre",
+      "Metrô Vicente de Carvalho"
+    ]
+  },
+  {
+    "linha": "951",
+    "destinos": [
+      "Vista Alegre",
+      "Vicente de Carvalho"
+    ]
+  },
+  {
+    "linha": "953",
+    "destinos": [
+      "Cidade de Deus",
+      "Terminal Tanque"
+    ]
+  },
+  {
+    "linha": "954",
+    "destinos": [
+      "Recreio dos Bandeirantes",
+      "Terminal Taquara"
+    ]
+  },
+  {
+    "linha": "955",
+    "destinos": [
+      "Terminal Alvorada"
+    ]
+  },
+  {
+    "linha": "957",
+    "destinos": [
+      "Terminal Alvorada"
+    ]
+  },
+  {
+    "linha": "961",
+    "destinos": [
+      "Recreio dos Bandeirantes",
+      "Rio das Pedras"
+    ]
+  },
+  {
+    "linha": "987",
+    "destinos": [
+      "Circular"
+    ]
+  },
+  {
+    "linha": "990",
+    "destinos": [
+      "Joatinga",
+      "Merck"
+    ]
+  },
+  {
+    "linha": "2024",
+    "destinos": [
+      "Aeroporto Internacional",
+      "Leblon"
+    ]
+  },
+  {
+    "linha": "2110",
+    "destinos": [
+      "Castelo",
+      "Gardênia Azul"
+    ]
+  },
+  {
+    "linha": "2111",
+    "destinos": [
+      "Castelo",
+      "Praça Seca"
+    ]
+  },
+  {
+    "linha": "2112",
+    "destinos": [
+      "Castelo",
+      "Taquara"
+    ]
+  },
+  {
+    "linha": "2114",
+    "destinos": [
+      "Castelo",
+      "Freguesia"
+    ]
+  },
+  {
+    "linha": "2303",
+    "destinos": [
+      "Carioca",
+      "Cesarão"
+    ]
+  },
+  {
+    "linha": "2305",
+    "destinos": [
+      "Castelo",
+      "Jardim América"
+    ]
+  },
+  {
+    "linha": "2307",
+    "destinos": [
+      "Carioca",
+      "Jardim 7 de Abril"
+    ]
+  },
+  {
+    "linha": "2308",
+    "destinos": [
+      "Carioca",
+      "Cosmos"
+    ]
+  },
+  {
+    "linha": "2309",
+    "destinos": [
+      "Carioca",
+      "Urucânia"
+    ]
+  },
+  {
+    "linha": "2310",
+    "destinos": [
+      "Candelária",
+      "Bangu"
+    ]
+  },
+  {
+    "linha": "2334",
+    "destinos": [
+      "Castelo",
+      "Campo Grande"
+    ]
+  },
+  {
+    "linha": "2335",
+    "destinos": [
+      "Castelo",
+      "Santa Cruz"
+    ]
+  },
+  {
+    "linha": "2336",
+    "destinos": [
+      "Castelo",
+      "Campo Grande"
+    ]
+  },
+  {
+    "linha": "2337",
+    "destinos": [
+      "Castelo",
+      "Santa Cruz"
+    ]
+  },
+  {
+    "linha": "2338",
+    "destinos": [
+      "Castelo",
+      "Terminal Campo Grande"
+    ]
+  },
+  {
+    "linha": "2339",
+    "destinos": [
+      "Castelo",
+      "Campo Grande"
+    ]
+  },
+  {
+    "linha": "2342",
+    "destinos": [
+      "Castelo",
+      "Bananal"
+    ]
+  },
+  {
+    "linha": "2343",
+    "destinos": [
+      "Castelo",
+      "Ribeira"
+    ]
+  },
+  {
+    "linha": "2344",
+    "destinos": [
+      "Castelo",
+      "Bancários"
+    ]
+  },
+  {
+    "linha": "2345",
+    "destinos": [
+      "Castelo",
+      "Vila Valqueire"
+    ]
+  },
+  {
+    "linha": "2381",
+    "destinos": [
+      "Castelo",
+      "Pedra de Guaratiba"
+    ]
+  },
+  {
+    "linha": "2383",
+    "destinos": [
+      "Carioca",
+      "Sepetiba"
+    ]
+  },
+  {
+    "linha": "2802",
+    "destinos": [
+      "Barra da Tijuca",
+      "Santa Cruz"
+    ]
+  },
+  {
+    "linha": "2803",
+    "destinos": [
+      "Barra da Tijuca",
+      "Vila Kennedy"
+    ]
+  },
+  {
+    "linha": "2804",
+    "destinos": [
+      "Barra da Tijuca",
+      "Bangu"
+    ]
+  },
+  {
+    "linha": "2918",
+    "destinos": [
+      "Circular"
+    ]
+  },
+  {
+    "linha": "006",
+    "destinos": [
+      "Castelo",
+      "Silvestre"
+    ]
+  },
+  {
+    "linha": "007",
+    "destinos": [
+      "Central",
+      "Silvestre"
+    ]
+  },
+  {
+    "linha": "010",
+    "destinos": [
+      "Central do Brasil",
+      "Bairro de Fátima"
+    ]
+  },
+  {
+    "linha": "013",
+    "destinos": [
+      "Santo Cristo",
+      "Paula Matos"
+    ]
+  },
+  {
+    "linha": "014",
+    "destinos": [
+      "Castelo",
+      "Paula Matos"
+    ]
+  },
+  {
+    "linha": "ESP01",
+    "destinos": [
+      "Terminal Gentileza",
+      "Galeão"
+    ]
+  },
+  {
+    "linha": "LECD108",
+    "destinos": [
+      "Terminal Sulacap",
+      "Metrô Pavuna"
+    ]
+  },
+  {
+    "linha": "LECD109",
+    "destinos": [
+      "Campo Grande",
+      "Terminal Curral Falso"
+    ]
+  },
+  {
+    "linha": "LECD85",
+    "destinos": [
+      "Circular"
+    ]
+  },
+  {
+    "linha": "SE867",
+    "destinos": [
+      "Terminal Campo Grande",
+      "Barra de Guaratiba"
+    ]
+  },
+  {
+    "linha": "SN007",
+    "destinos": [
+      "Central",
+      "Silvestre"
+    ]
+  },
+  {
+    "linha": "SN104",
+    "destinos": [
+      "Terminal Gentileza",
+      "São Conrado"
+    ]
+  },
+  {
+    "linha": "SN133",
+    "destinos": [
+      "Terminal Gentileza",
+      "Largo do Machado"
+    ]
+  },
+  {
+    "linha": "SN209",
+    "destinos": [
+      "Caju",
+      "Candelária"
+    ]
+  },
+  {
+    "linha": "SN232",
+    "destinos": [
+      "Castelo",
+      "Lins de Vasconcelos"
+    ]
+  },
+  {
+    "linha": "SN238",
+    "destinos": [
+      "Castelo",
+      "Água Santa"
+    ]
+  },
+  {
+    "linha": "SN265",
+    "destinos": [
+      "Castelo",
+      "Marechal Hermes"
+    ]
+  },
+  {
+    "linha": "SN298",
+    "destinos": [
+      "Castelo",
+      "Acari"
+    ]
+  },
+  {
+    "linha": "SN302",
+    "destinos": [
+      "Terminal Alvorada",
+      "Terminal Gentileza"
+    ]
+  },
+  {
+    "linha": "SN309",
+    "destinos": [
+      "Terminal Gentileza",
+      "Terminal Alvorada"
+    ]
+  },
+  {
+    "linha": "SN312",
+    "destinos": [
+      "Candelária",
+      "Penha"
+    ]
+  },
+  {
+    "linha": "SN324",
+    "destinos": [
+      "Candelária",
+      "Ribeira"
+    ]
+  },
+  {
+    "linha": "SN328",
+    "destinos": [
+      "Candelária",
+      "Bananal"
+    ]
+  },
+  {
+    "linha": "SN353",
+    "destinos": [
+      "Terminal Gentileza",
+      "Gardênia Azul"
+    ]
+  },
+  {
+    "linha": "SN355",
+    "destinos": [
+      "Praça Tiradentes",
+      "Madureira"
+    ]
+  },
+  {
+    "linha": "SN363",
+    "destinos": [
+      "Candelária",
+      "Vila Valqueire"
+    ]
+  },
+  {
+    "linha": "SN368",
+    "destinos": [
+      "Candelária",
+      "Riocentro"
+    ]
+  },
+  {
+    "linha": "SN383",
+    "destinos": [
+      "Praça da República",
+      "Realengo"
+    ]
+  },
+  {
+    "linha": "SN388",
+    "destinos": [
+      "Candelária",
+      "Cesarão"
+    ]
+  },
+  {
+    "linha": "SN393",
+    "destinos": [
+      "Candelária",
+      "Bangu"
+    ]
+  },
+  {
+    "linha": "SN397",
+    "destinos": [
+      "Candelária",
+      "Terminal Campo Grande"
+    ]
+  },
+  {
+    "linha": "SN399",
+    "destinos": [
+      "Passeio",
+      "Pavuna"
+    ]
+  },
+  {
+    "linha": "SN415",
+    "destinos": [
+      "Leblon",
+      "Usina"
+    ]
+  },
+  {
+    "linha": "SN422",
+    "destinos": [
+      "Cosme Velho",
+      "Grajaú"
+    ]
+  },
+  {
+    "linha": "SN433",
+    "destinos": [
+      "Siqueira Campos",
+      "Vila Isabel"
+    ]
+  },
+  {
+    "linha": "SN457",
+    "destinos": [
+      "Copacabana",
+      "Abolição"
+    ]
+  },
+  {
+    "linha": "SN474",
+    "destinos": [
+      "Copacabana",
+      "Méier"
+    ]
+  },
+  {
+    "linha": "SN483",
+    "destinos": [
+      "General Osório",
+      "Penha"
+    ]
+  },
+  {
+    "linha": "SN497",
+    "destinos": [
+      "Largo do Machado",
+      "Penha"
+    ]
+  },
+  {
+    "linha": "SN538",
+    "destinos": [
+      "Leme",
+      "Rocinha"
+    ]
+  },
+  {
+    "linha": "SN550",
+    "destinos": [
+      "Gávea",
+      "Cidade de Deus"
+    ]
+  },
+  {
+    "linha": "SN554",
+    "destinos": [
+      "Rio Sul",
+      "Piabas"
+    ]
+  },
+  {
+    "linha": "SN565",
+    "destinos": [
+      "Gávea",
+      "Terminal Tanque"
+    ]
+  },
+  {
+    "linha": "SN600",
+    "destinos": [
+      "Saens Peña",
+      "Taquara"
+    ]
+  },
+  {
+    "linha": "SN624",
+    "destinos": [
+      "Praça da República",
+      "Mariópolis"
+    ]
+  },
+  {
+    "linha": "SN629",
+    "destinos": [
+      "Saens Peña",
+      "Irajá"
+    ]
+  },
+  {
+    "linha": "SN634",
+    "destinos": [
+      "Saens Peña",
+      "Bananal"
+    ]
+  },
+  {
+    "linha": "SN636",
+    "destinos": [
+      "Saens Peña",
+      "Merck"
+    ]
+  },
+  {
+    "linha": "SN639",
+    "destinos": [
+      "Saens Peña",
+      "Jardim América"
+    ]
+  },
+  {
+    "linha": "SN685",
+    "destinos": [
+      "Méier",
+      "Irajá"
+    ]
+  },
+  {
+    "linha": "SN696",
+    "destinos": [
+      "Praia do Dendê",
+      "Méier"
+    ]
+  },
+  {
+    "linha": "SN731",
+    "destinos": [
+      "Marechal Hermes",
+      "Campo Grande"
+    ]
+  },
+  {
+    "linha": "SN779",
+    "destinos": [
+      "Terminal Madureira",
+      "Metrô Pavuna"
+    ]
+  },
+  {
+    "linha": "SN790",
+    "destinos": [
+      "Cascadura",
+      "Campo Grande"
+    ]
+  },
+  {
+    "linha": "SN794",
+    "destinos": [
+      "Cascadura",
+      "Jabour"
+    ]
+  },
+  {
+    "linha": "SN803",
+    "destinos": [
+      "Taquara",
+      "Jabour"
+    ]
+  },
+  {
+    "linha": "SN810",
+    "destinos": [
+      "Pontal",
+      "Terminal Taquara"
+    ]
+  },
+  {
+    "linha": "SN821",
+    "destinos": [
+      "Circular"
+    ]
+  },
+  {
+    "linha": "SN825",
+    "destinos": [
+      "Jesuítas",
+      "Campo Grande"
+    ]
+  },
+  {
+    "linha": "SN840",
+    "destinos": [
+      "Campo Grande",
+      "São Fernando"
+    ]
+  },
+  {
+    "linha": "SN846",
+    "destinos": [
+      "Terminal Campo Grande",
+      "Rio da Prata"
+    ]
+  },
+  {
+    "linha": "SN848",
+    "destinos": [
+      "Terminal Campo Grande",
+      "Monte Santo"
+    ]
+  },
+  {
+    "linha": "SN857",
+    "destinos": [
+      "Terminal Pingo D'Água",
+      "Terminal Campo Grande"
+    ]
+  },
+  {
+    "linha": "SN861",
+    "destinos": [
+      "Curicica",
+      "Rio das Pedras"
+    ]
+  },
+  {
+    "linha": "SN867",
+    "destinos": [
+      "Terminal Campo Grande",
+      "Barra de Guaratiba"
+    ]
+  },
+  {
+    "linha": "SN878",
+    "destinos": [
+      "Barra da Tijuca",
+      "Terminal Tanque"
+    ]
+  },
+  {
+    "linha": "SN880",
+    "destinos": [
+      "Terminal Alvorada",
+      "Rio das Pedras"
+    ]
+  },
+  {
+    "linha": "SN884",
+    "destinos": [
+      "Terminal Campo Grande",
+      "Sepetiba"
+    ]
+  },
+  {
+    "linha": "SN885",
+    "destinos": [
+      "Santa Cruz",
+      "Terminal Mato Alto"
+    ]
+  },
+  {
+    "linha": "SN893",
+    "destinos": [
+      "Campo Grande",
+      "Jardim Palmares"
+    ]
+  },
+  {
+    "linha": "SN895",
+    "destinos": [
+      "Circular"
+    ]
+  },
+  {
+    "linha": "SN897",
+    "destinos": [
+      "Terminal Pingo D'Água",
+      "Santa Cruz"
+    ]
+  },
+  {
+    "linha": "SN898",
+    "destinos": [
+      "Campo Grande",
+      "Sepetiba"
+    ]
+  },
+  {
+    "linha": "SN908",
+    "destinos": [
+      "Bonsucesso",
+      "Terminal Deodoro"
+    ]
+  },
+  {
+    "linha": "SN919",
+    "destinos": [
+      "Maré",
+      "Pavuna"
+    ]
+  },
+  {
+    "linha": "SN954",
+    "destinos": [
+      "Recreio dos Bandeirantes",
+      "Terminal Taquara"
+    ]
+  },
+  {
+    "linha": "SP265",
+    "destinos": [
+      "Terminal Gentileza",
+      "Marechal Hermes"
+    ]
+  },
+  {
+    "linha": "SP309",
+    "destinos": [
+      "Central"
+    ]
+  },
+  {
+    "linha": "SP315",
+    "destinos": [
+      "Recreio dos Bandeirantes"
+    ]
+  },
+  {
+    "linha": "SP324",
+    "destinos": [
+      "Terminal Fundão",
+      "Ribeira"
+    ]
+  },
+  {
+    "linha": "SP328",
+    "destinos": [
+      "Terminal Fundão",
+      "Bananal"
+    ]
+  },
+  {
+    "linha": "SP329",
+    "destinos": [
+      "Terminal Fundão",
+      "Bancários"
+    ]
+  },
+  {
+    "linha": "SP343",
+    "destinos": [
+      "Candelária"
+    ]
+  },
+  {
+    "linha": "SP404",
+    "destinos": [
+      "Leblon"
+    ]
+  },
+  {
+    "linha": "SP485",
+    "destinos": [
+      "Fundão"
+    ]
+  },
+  {
+    "linha": "SP553",
+    "destinos": [
+      "Rio Sul"
+    ]
+  },
+  {
+    "linha": "SP635",
+    "destinos": [
+      "Saens Peña",
+      "Terminal Fundão"
+    ]
+  },
+  {
+    "linha": "SP759",
+    "destinos": [
+      "Terminal Deodoro",
+      "Cesarão"
+    ]
+  },
+  {
+    "linha": "SP766",
+    "destinos": [
+      "Madureira"
+    ]
+  },
+  {
+    "linha": "SP783",
+    "destinos": [
+      "Praça Seca",
+      "Marechal Hermes"
+    ]
+  },
+  {
+    "linha": "SP795",
+    "destinos": [
+      "Terminal Deodoro",
+      "Pavuna"
+    ]
+  },
+  {
+    "linha": "SP801",
+    "destinos": [
+      "Terminal Sulacap",
+      "Bangu"
+    ]
+  },
+  {
+    "linha": "SP803",
+    "destinos": [
+      "Terminal Sulacap",
+      "Jabour"
+    ]
+  },
+  {
+    "linha": "SP805",
+    "destinos": [
+      "Passarela da Barra",
+      "Terminal Alvorada"
+    ]
+  },
+  {
+    "linha": "SP810",
+    "destinos": [
+      "Vargem Grande",
+      "Terminal Taquara"
+    ]
+  },
+  {
+    "linha": "SP918",
+    "destinos": [
+      "Terminal Deodoro",
+      "Jardim Violeta"
+    ]
+  },
+  {
+    "linha": "SPA483",
+    "destinos": [
+      "General Osório"
+    ]
+  },
+  {
+    "linha": "SPA550",
+    "destinos": [
+      "Rocinha",
+      "Cidade de Deus"
+    ]
+  },
+  {
+    "linha": "SPA613",
+    "destinos": [
+      "Metrô Del Castilho",
+      "Riocentro"
+    ]
+  },
+  {
+    "linha": "SPB326",
+    "destinos": [
+      "Terminal Fundão",
+      "Bancários"
+    ]
+  },
+  {
+    "linha": "SPB483",
+    "destinos": [
+      "General Osório"
+    ]
+  },
+  {
+    "linha": "SPB550",
+    "destinos": [
+      "Gávea",
+      "Tijuquinha"
+    ]
+  },
+  {
+    "linha": "SR300",
+    "destinos": [
+      "Candelária",
+      "Terminal Sulacap"
+    ]
+  },
+  {
+    "linha": "SR328",
+    "destinos": [
+      "Candelária",
+      "Bananal"
+    ]
+  },
+  {
+    "linha": "SR342",
+    "destinos": [
+      "Castelo",
+      "Jardim América"
+    ]
+  },
+  {
+    "linha": "SR355",
+    "destinos": [
+      "Praça Tiradentes",
+      "Madureira"
+    ]
+  },
+  {
+    "linha": "SR362",
+    "destinos": [
+      "Castelo",
+      "Honório Gurgel"
+    ]
+  },
+  {
+    "linha": "SR378",
+    "destinos": [
+      "Castelo",
+      "Marechal Hermes"
+    ]
+  },
+  {
+    "linha": "SR384",
+    "destinos": [
+      "Passeio",
+      "Pavuna"
+    ]
+  },
+  {
+    "linha": "SR386",
+    "destinos": [
+      "Candelária",
+      "Anchieta"
+    ]
+  },
+  {
+    "linha": "SR388",
+    "destinos": [
+      "Candelária",
+      "Cesarão"
+    ]
+  },
+  {
+    "linha": "SR393",
+    "destinos": [
+      "Candelária",
+      "Bangu"
+    ]
+  },
+  {
+    "linha": "SR397",
+    "destinos": [
+      "Candelária",
+      "Terminal Campo Grande"
+    ]
+  },
+  {
+    "linha": "SR399",
+    "destinos": [
+      "Passeio",
+      "Pavuna"
+    ]
+  },
+  {
+    "linha": "SV112",
+    "destinos": [
+      "Alto Gávea",
+      "Terminal Gentileza"
+    ]
+  },
+  {
+    "linha": "SV363",
+    "destinos": [
+      "Candelária",
+      "Vila Valqueire"
+    ]
+  },
+  {
+    "linha": "SV384",
+    "destinos": [
+      "Passeio",
+      "Pavuna"
+    ]
+  },
+  {
+    "linha": "SV391",
+    "destinos": [
+      "Praça da República",
+      "Padre Miguel"
+    ]
+  },
+  {
+    "linha": "SV474",
+    "destinos": [
+      "Copacabana",
+      "Jacaré [via P. do Flamengo]"
+    ]
+  },
+  {
+    "linha": "SV483",
+    "destinos": [
+      "Penha [via P. do Flamengo]"
+    ]
+  },
+  {
+    "linha": "SV606",
+    "destinos": [
+      "Terminal Gentileza",
+      "Engenho de Dentro"
+    ]
+  },
+  {
+    "linha": "SV624",
+    "destinos": [
+      "Praça da Bandeira",
+      "Mariópolis"
+    ]
+  },
+  {
+    "linha": "SV669",
+    "destinos": [
+      "Méier",
+      "Pavuna"
+    ]
+  },
+  {
+    "linha": "SV692",
+    "destinos": [
+      "Terminal Alvorada",
+      "Méier"
+    ]
+  },
+  {
+    "linha": "SV774",
+    "destinos": [
+      "Jardim América",
+      "Madureira"
+    ]
+  },
+  {
+    "linha": "SV777",
+    "destinos": [
+      "Madureira",
+      "Padre Miguel"
+    ]
+  },
+  {
+    "linha": "SV779",
+    "destinos": [
+      "Terminal Madureira",
+      "Metrô Pavuna"
+    ]
+  },
+  {
+    "linha": "SV790",
+    "destinos": [
+      "Cascadura",
+      "Campo Grande"
+    ]
+  },
+  {
+    "linha": "SV803",
+    "destinos": [
+      "Taquara",
+      "Jabour"
+    ]
+  },
+  {
+    "linha": "SV831",
+    "destinos": [
+      "Terminal Taquara",
+      "Colônia"
+    ]
+  },
+  {
+    "linha": "SV853",
+    "destinos": [
+      "Terminal Deodoro",
+      "Terminal Mato Alto"
+    ]
+  },
+  {
+    "linha": "SV863",
+    "destinos": [
+      "Terminal Alvorada",
+      "Rio das Pedras"
+    ]
+  },
+  {
+    "linha": "SV866",
+    "destinos": [
+      "Terminal Pingo D'Água",
+      "Terminal Campo Grande"
+    ]
+  },
+  {
+    "linha": "SV878",
+    "destinos": [
+      "Barra da Tijuca",
+      "Terminal Tanque"
+    ]
+  },
+  {
+    "linha": "SV899",
+    "destinos": [
+      "Terminal Recreio",
+      "Barra de Guaratiba"
+    ]
+  },
+  {
+    "linha": "SV908",
+    "destinos": [
+      "Bonsucesso"
+    ]
+  },
+  {
+    "linha": "SV917",
+    "destinos": [
+      "Bonsucesso",
+      "Realengo"
+    ]
+  },
+  {
+    "linha": "SV921",
+    "destinos": [
+      "Ribeira",
+      "Bancários"
+    ]
+  },
+  {
+    "linha": "SV922",
+    "destinos": [
+      "Terminal Fundão",
+      "Tubiacanga"
+    ]
+  },
+  {
+    "linha": "SVA665",
+    "destinos": [
+      "Saens Peña",
+      "Pavuna"
+    ]
+  },
+  {
+    "linha": "SVA685",
+    "destinos": [
+      "Méier",
+      "Irajá"
+    ]
+  },
+  {
+    "linha": "SVB665",
+    "destinos": [
+      "Saens Peña",
+      "Pavuna"
+    ]
+  },
+  {
+    "linha": "SVB685",
+    "destinos": [
+      "Méier",
+      "Irajá"
+    ]
+  },
+  {
+    "linha": "SVB901",
+    "destinos": [
+      "Bananal",
+      "Bonsucesso"
+    ]
+  }
+]
