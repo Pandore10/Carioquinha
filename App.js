@@ -25,7 +25,6 @@ export default function App() {
       <NavigationContainer>
         <Header />
         <Tab.Navigator
-          style={styles.navigationBar}
           screenOptions={({ route }) => ({
             headerShown: false,
             tabBarIcon: ({ focused, color, size }) => {
@@ -59,7 +58,4 @@ const styles = StyleSheet.create({
     flex: 1,
     flexDirection: 'column'
   },
-  navigationBar: {
-    marginBottom: 100,
-  }
 })
