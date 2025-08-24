@@ -140,5 +140,8 @@ const styles = StyleSheet.create({
   },
   botaoColapso: {
     alignItems: 'center',
+  },
+  teste: {
+    backgroundColor: '#ffffff',
   }
 });
