@@ -1,7 +1,6 @@
 import { useRef, useState } from 'react';
-import { View, Text, StyleSheet, Pressable } from 'react-native';
+import { View, Text, StyleSheet, Pressable, Image, FlatList } from 'react-native';
 import Animated, { useAnimatedStyle, withTiming } from 'react-native-reanimated';
-import { FlatList } from 'react-native-web';
 
 export default function WeatherList ({ dados }) {
   const [cardsAbertos, setCardsAbertos] = useState(new Set());
@@ -10,8 +9,11 @@ export default function WeatherList ({ dados }) {
   let previsoes = dados?.list || null;
 
   if (!previsoes) {
-
-    return;
+    return (
+      <View style={{ opacity: 0.8, backgroundColor: '#fff', borderRadius: 8, padding: 10, alignItems: 'center'}}>
+        <Text>Sem conexão no momento. {dados}</Text>
+      </View>
+    );
   }
 
   const previsoesFiltrado = previsoes.filter((item) => {
@@ -119,7 +121,7 @@ function PrevisaoCard ({ item, taAberto, toggle }) {
       </View>
 
       <View style={{ flexDirection: 'row' }}>
-        <Image style={[styles.weatherImage, { backgroundColor: weatherImageBackground(item.weather[0].id)}]} source={require('../assets/icon.png')} />
+        <Image style={[styles.weatherImage, { backgroundColor: weatherImageBackground(item.weather[0].id)}]} source={{ uri: `https://openweathermap.org/img/wn/${item.weather[0]}@2x.png`}} />
         <View style={{ flexDirection: 'column' }}>
           <Text>Tempo: {item.weather[0].description[0].toUpperCase() + item.weather[0].description.slice(1)}</Text>
           <Text>Temperatura: {Math.trunc(item.main.temp)}</Text>
@@ -139,7 +141,19 @@ function PrevisaoCard ({ item, taAberto, toggle }) {
         </Animated.View>
       </Animated.View>
     </Pressable>
-  );
+  ); 
+}
+
+const weatherImageBackground = (code) => {
+  if (code >= 800 && code <= 802) {
+    return '#69c5ff';
+  } else if ((code >= 500 && code <= 531) || (code >= 803 && code <= 804)) {
+    return '#b5b5b5';
+  } else if (code >= 200 && code <= 232) {
+    return '#5c5c5c';
+  }
+
+  return '#ccc';
 }
 
 const styles = StyleSheet.create({

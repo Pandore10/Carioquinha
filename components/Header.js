@@ -4,13 +4,17 @@ import Animated, { useAnimatedStyle, useSharedValue, withTiming } from 'react-na
 import { useState } from 'react';
 import WeatherList from './WeatherList';
 
+import { MOCK_5DAY_FORECAST, MOCK_CURRENT_WEATHER } from '../mock-data';
+
 export default function Header() {
   //temp values
   const tempo = {
-    icone: null,
-    temperatura: '-',
-    descricao: 'Ta bão'
-  };
+    icone: MOCK_CURRENT_WEATHER.weather[0].icon,
+    temperatura: MOCK_CURRENT_WEATHER.main.temp,
+    descricao: MOCK_CURRENT_WEATHER.weather[0].description,
+  }
+
+  const forecast = MOCK_5DAY_FORECAST;
 
   const bairro = {
     bairro: 'Nada ainda',
@@ -79,14 +83,14 @@ export default function Header() {
         </View>
 
         <View style={styles.headerItem}>
-          <Image style={styles.climaIcon} source={ tempo.icone ? {} : require('../assets/no-connection.png')} />
+          <Image style={styles.climaIcon} source={ tempo.icone ? { uri: `https://openweathermap.org/img/wn/${tempo.icone}@2x.png` } : require('../assets/no-connection.png')} />
           <Text>{tempo.descricao}</Text>
         </View>
       </TouchableOpacity>
 
       {/* Header expandido */}
       <Animated.View style={expansaoHeader}>
-        <WeatherList />
+        <WeatherList dados={forecast}/>
       </Animated.View>
 
       {/* Botão de colapso */}
@@ -135,8 +139,8 @@ const styles = StyleSheet.create({
     gap: 5,
   },
   climaIcon: {
-    height: 20,
-    width: 20,
+    height: 30,
+    width: 30,
   },
   botaoColapso: {
     alignItems: 'center',
